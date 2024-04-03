@@ -48,12 +48,12 @@ const Intramurals = () => {
                         </div>
                         <div className='flex flex-col items-center justify-center gap-3'>
                             <div className='font-akira-expanded sm:text-4xl text-2xl text-center'>Rocket League</div>
-                            <Link to='' className='bg-slate-600 text-white font-bold py-2 px-4 rounded-full duration-500'>
+                            {/* <Link to='' className='bg-slate-600 text-white font-bold py-2 px-4 rounded-full duration-500'>
                                 Closed
-                            </Link>
-                            {/* <Link to='https://forms.gle/p7rymJGwXG3AGZTB6' target='_blank' className='bg-[#00588F] hover:bg-[#00588faf] text-white font-bold py-2 px-4 rounded-full duration-500'>
-                                Sign up
                             </Link> */}
+                            <Link to='https://forms.gle/V8Ux56kiZBH4JpWeA' target='_blank' className='bg-[#00588F] hover:bg-[#00588faf] text-white font-bold py-2 px-4 rounded-full duration-500'>
+                                Sign up
+                            </Link>
                             {/* <div className='text-xl'>Coming Soon...</div> */}
                         </div>
                         <div className='flex flex-col items-center justify-center gap-3'>
