@@ -1,0 +1,47 @@
+[
+    {
+        "id": "Kayul",
+        "ign": "Kayul",
+        "name": "Kyle Chen",
+        "role": "DPS",
+        "major": "AGPM (Art, Games, and Playable media)",
+        "hometown": "Irvine, CA",
+        "image": "Kayul.png"
+    },
+    {
+        "id": "Doppler",
+        "ign": "Doppler",
+        "name": "Turner Lu",
+        "role": "Support",
+        "major": "Computer Science",
+        "hometown": "Pinole, CA",
+        "image": "Doppler.png"
+    },
+    {
+        "id": "Dingus",
+        "ign": "Dingus",
+        "name": "Damon Pham",
+        "role": "Tank",
+        "major": "AGPM (Art, Games, and Playable media) ",
+        "hometown": "San Leandro, CA",
+        "image": "Dingus.png"
+    },
+    {
+        "id": "Natethegr8108",
+        "ign": "Natethegr8108",
+        "name": "Nate Arnold",
+        "role": "Support",
+        "major": "Computer Engineering",
+        "hometown": "North Charleston, SC",
+        "image": "Nate.png"
+    },
+    {
+        "id": "Phisheyy",
+        "ign": "Phisheyy",
+        "name": "Astrid Christensen",
+        "role": "DPS",
+        "major": "Networking & Digital Engineering",
+        "hometown": "Santa Rosa, CA",
+        "image": "Phisheyy.png"
+    }
+]
