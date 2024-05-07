@@ -1,21 +1,21 @@
 [
     {
-        "id": "Melodia",
-        "ign": "Melodia",
-        "name": "Ming Qi",
+        "id": "DashZero",
+        "ign": "Dashzerø",
+        "name": "Nguyen Vu",
         "role": "Top",
-        "major": "Computer Engineering",
-        "hometown": "Shanghai, China",
-        "image": "Melodia.png"
+        "major": "Computer Science: Computer Game Design",
+        "hometown": "Ho Chi Minh, Vietnam",
+        "image": "Dashzero.png"
     },
     {
-        "id": "MOONMAN",
-        "ign": "Mastersheriff",
-        "name": "Qihe Wang",
+        "id": "Dunksquad101",
+        "ign": "Dunksquad101",
+        "name": "Matthew Do",
         "role": "Jungle",
-        "major": "Computer Science: Computer Game Design",
-        "hometown": "San Jose, CA",
-        "image": "Master Sheriff.png"
+        "major": "Computer Engineering",
+        "hometown": "San Francisco, California",
+        "image": "dunk.png"
     },
     {
         "id": "Echídna",
@@ -43,24 +43,6 @@
         "major": "Computer Science: Computer Game Design",
         "hometown": "Chengdu, China",
         "image": "Yunjia.png"
-    },
-    {
-        "id": "DashZero",
-        "ign": "Dashzerø",
-        "name": "Nguyen Vu",
-        "role": "Sub",
-        "major": "Computer Science: Computer Game Design",
-        "hometown": "Ho Chi Minh, Vietnam",
-        "image": "Dashzero.png"
-    },
-    {
-        "id": "PoopyWorm",
-        "ign": "PoopyWorm",
-        "name": "Vincent Nguyen",
-        "role": "Sub",
-        "major": "Technology and Information Management",
-        "hometown": "San Jose, CA",
-        "image": "PoopyWorm.png"
     },
     {
         "id": "BananaNations",
