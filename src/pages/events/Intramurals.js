@@ -69,7 +69,7 @@ const Intramurals = () => {
                 </section>
                 <section id='sponsor' className='flex flex-col pt-10 gap-12 mb-10'>
                     <div className='flex justify-center sm:text-5xl text-4xl text-[#00588F] font-semibold'>
-                            Brought to you by
+                            Event Sponsors
                     </div>
                     <div className='flex justify-center max-[900px]:flex-col max-[900px]:items-center flex-row max-[1100px]:px-12 py-5 gap-9' >
                             <img src={require('../../images/Intramurals Page/HYEL_Logo.png')} alt='hyel' loading="lazy" className='w-96'/>
