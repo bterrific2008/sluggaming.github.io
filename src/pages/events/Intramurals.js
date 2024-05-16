@@ -67,6 +67,15 @@ const Intramurals = () => {
                         </div>
                     </div>
                 </section>
+                <section id='sponsor' className='flex flex-col pt-10 gap-12 mb-10'>
+                    <div className='flex justify-center sm:text-5xl text-4xl text-[#00588F] font-semibold'>
+                            Brought to you by
+                    </div>
+                    <div className='flex justify-center max-[900px]:flex-col max-[900px]:items-center flex-row max-[1100px]:px-12 py-5 gap-9' >
+                            <img src={require('../../images/Intramurals Page/HYEL_Logo.png')} alt='hyel' loading="lazy" className='w-96'/>
+                            <img src={require('../../images/Intramurals Page/FITAID LOGO.png')} alt='fitaid' loading="lazy" className='w-96'/>
+                    </div>
+                </section>
                 {/* <section id='sponsor' className='flex min-[1540px]:flex-row flex-col pt-10 gap-12 mb-10'>
                     <div id='left_sponsor' className='min-[1540px]:w-[60%] w-full'>
                         <div className='flex justify-center sm:text-5xl text-3xl text-[#00588F] font-semibold'>
