@@ -21,10 +21,10 @@ const About = () => {
           <p className='text-[#00588F] font-bold text-4xl'>History of the Program</p>
           <div className='text-black'>
             <p className='py-8 font-medium text-slate-800'>
-              Slug Gaming is UC Santa Cruz’s student run gaming organization. We believe that gaming has created an outlet to bring people together, and provides a space where background, skill, interest, and other aspects of life are not the driving force for the community. We strive to make gaming and esports bigger, from not only the collegiate level, but as a whole.
+              Slug Gaming at UC Santa Cruz is a student run gaming organization. We believe that gaming has created an outlet to bring people together, and provides a space where background, skill, interest, and other aspects of life are not the driving force for the community. We strive to make gaming and esports bigger, from not only the collegiate level, but as a whole.
             </p>
             <p className='font-medium text-slate-800'>
-              Founder Andrew Cousins first developed the organization in hopes to unite the gaming community throughout UCSC. In order to unite gamers, Slug Gaming provides a welcoming and inclusive atmosphere for everyone no matter their background or skill level. Slug Gaming  host a variety of events and social gathers for games such as League of Legends, Overwatch, Hearthstone, etc. For those with a competitive drive Slug Gaming offers students a chance to compete with not  only each other, but against other universities. Slug Gaming continues to grow each year, and will eventually be the gamers home to not only UCSC but Santa Cruz.
+              Founder Andrew Cousins first developed the organization in hopes to unite the gaming community throughout UCSC. In order to unite gamers, Slug Gaming provides a welcoming and inclusive atmosphere for everyone no matter their background or skill level. Slug Gaming hosts a variety of events and social gathers for games such as League of Legends, Overwatch, Hearthstone, etc. For those with a competitive drive Slug Gaming offers students a chance to compete with not only each other, but against other universities. Slug Gaming continues to grow each year, and will eventually be the gamers home to not only UCSC but Santa Cruz.
             </p>
           </div>
         </div>
