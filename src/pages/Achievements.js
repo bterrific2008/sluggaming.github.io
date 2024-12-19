@@ -63,6 +63,7 @@ const Achievements = () => {
               <li>CSL GameStop Weeklies Winner</li>
               <li>Fanime Con 2017 Winner</li>
               <li>Fanime Con 2018 Winner</li>
+              <li>NECC West Champions Spring 2024 Winners</li>
             </ul>
           </div>
 

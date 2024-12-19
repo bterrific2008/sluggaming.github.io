@@ -1,36 +1,44 @@
 [
     {
         "id": 11,
-        "name": "Sam M.",
-        "role": "Marketing Director",
-        "location": "Daly City, CA",
-        "image": "Sam M.png",
-        "username": "Cynthk",
-        "pronouns": "(She/Her)",
-        "content": "Heya! My name is Sam or \"Dior\", I am slug gaming's Marketing Director and part time League of Legends caster. I am a Legal Studies major and Politics minor and will be entering my Senior year.  I enjoy playing board games and other TTRPGS, and have been in love with DnD for several years. I'm also an aspiring voice actress having worked in a few indie games.",
-        "linkedin": "https://www.linkedin.com/in/smagdamo/"
+        "name": "Regis P.",
+        "role": "Production Lead",
+        "location": "San Clemente, CA",
+        "image": "soggytofu.jpg",
+        "username": "soggytofu",
+        "pronouns": "(He/Him)",
+        "content": "DotA 2 > League of Legends"
     },
     {
         "id": 13,
-        "name": "Jeff Z.",
-        "role": "Production Director",
-        "location": "San Francisco, CA",
-        "image": "Jeff Z.png",
-        "username": "Jeffuz",
+        "name": "Ethan V.",
+        "role": "Content Lead",
+        "location": "Los Angeles, CA",
+        "image": "coolmove.jpg",
+        "username": "Coolmove876",
         "pronouns": "(He/Him)",
-        "content": "Jeff \"Jeffuz\" Zhang (He/Him) is an upcoming 4th year studying Computer Engineering. He will be leading the production team and working on web/software development for the club. During his free time, Jeff enjoys playing League/Valorant, coding, and watching movies/shows.",
-        "linkedin": "https://www.linkedin.com/in/jeffzhang0049/",
-        "instagram": "https://www.instagram.com/jeffu_z/",
-        "twitch": "https://www.twitch.tv/j3ffuz"
+        "content": "\"I am the guy that makes videos and stuff.\" -Ethan Vlad"
     },
     {
         "id": 14,
-        "name": "Serene W.",
-        "role": "Events Director",
-        "location": "San Bruno, CA",
-        "image": "Serene W.png",
-        "username": "Suhrene",
+        "name": "Kapeeshwar S.",
+        "role": "Esports Lead",
+        "location": "Elk Grove, CA",
+        "image": "kingkap.jpg",
+        "username": "KingKap",
+        "pronouns": "(He/Him)",
+        "content": "Kapeeshwar \"KingKap\" Sharma, more commonly known as Kapeesh, or simply Kap is the 2024-2025 Esports Lead. Kap manages all things Esports, including teams, competitions, tournament entries, and the Esports Gaming Room. In a concurrent position, Kap serves as the club's primary photographer. He photographs general meetings and events and leads the team photography seen throughout the website. To see more photography checkout Kap's photography page on Instagram: @konceptsbykap. You can reach Kap at kingkap4 anywhere.",
+        "instagram": "https://www.instagram.com/kingkap4?igsh=NTc4MTIwNjQ2YQ==",
+        "linkedin": "https://www.linkedin.com/in/kapeeshwar-sharma-b623312aa"
+    }, 
+    {
+        "id": 15,
+        "name": "Renee L.",
+        "role": "Graphics Lead",
+        "location": "San Jose, CA",
+        "image": "luser.png",
+        "username": "luser",
         "pronouns": "(She/Her)",
-        "content": "Serene “suhrene” Wong (She/Her) is an upcoming 1st year Art and Design: Games and Playable Media major. She will be serving as the Events Director for Slug Gaming. In her free time, she enjoys playing League/TFT, watching videos/shows, and taking care of her plants. If there are any events you would want to see, feel free to reach out on discord @suhrene!"
+        "content": "Hi! My name is Renee and I am the socials lead for the school year. I am currently a second year studying Cognitive Science. My hometown is San Jose, CA but I lived in China for nine years before coming here :)"
     }
 ]

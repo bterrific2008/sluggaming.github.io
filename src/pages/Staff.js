@@ -27,7 +27,7 @@ const Staff = () => {
       </section>
       <section id='Esports Director'>
         <div className='flex justify-center sm:text-5xl text-3xl text-[#00588F]'>
-          Esports Director
+          Esports Directors
         </div>
         <div className='flex justify-center max-[1100px]:px-[50px] pt-3'>
           <img src={require('../images/Achivements Page/Yellow Line.png')} alt='Yellow Line' loading="lazy" />
@@ -45,7 +45,7 @@ const Staff = () => {
       </section>
       <section id='Team Leads' className='pb-[50px]'>
         <div className='flex justify-center sm:text-5xl text-3xl text-[#00588F]'>
-          Staff
+          Team Leads
         </div>
         <div className='flex justify-center max-[1100px]:px-[50px] pt-3'>
           <img src={require('../images/Achivements Page/Yellow Line.png')} alt='Yellow Line' loading="lazy" />
