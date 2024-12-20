@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Serene Wong",
+        "name": "Serene W.",
         "role": "President",
         "location": "San Bruno, CA",
         "image": "suhrene.png",
@@ -13,7 +13,7 @@
     },
     {
         "id": 2,
-        "name": "Ren Buendia",
+        "name": "Ren B.",
         "role": "Vice President",
         "location": "Rocklin, CA",
         "image": "heavrenly.png",
